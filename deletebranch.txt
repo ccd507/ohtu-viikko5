@@ -1,0 +1,4 @@
+jos ei commitoimattomia muutoksia:
+git branch -d <branch>
+tai väkisin:
+git branch -D <branch>
