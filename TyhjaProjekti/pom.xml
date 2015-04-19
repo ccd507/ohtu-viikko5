@@ -84,4 +84,8 @@
             </plugin>
         </plugins>
     </build>
+
+    <!--
+        git stash
+    -->
 </project>
